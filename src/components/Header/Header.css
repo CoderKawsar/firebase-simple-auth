@@ -1,0 +1,13 @@
+nav {
+  text-align: center;
+  padding: 15px 0px;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 15px 8px;
+}
+
+nav a:hover {
+  color: goldenrod;
+}
